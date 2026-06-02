@@ -18,3 +18,5 @@ The model was evaluated using:
 
 R² Score
 Mean Squared Error (MSE)
+
+its accuracy is above 97%
